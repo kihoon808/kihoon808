@@ -54,10 +54,3 @@
 * **Quant Screener (Android App)**
   * 자체 개발한 퀀트 전략 로직을 모바일 환경에 이식한 실시간 롱·숏 시그널 스크리너
   * 실시간 지표 기반의 스코어링 시스템 및 거래소 딥링크 연동을 통한 신속한 포지션 모니터링
-
-
----
-
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=kihoon808&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kihoon808&layout=compact&theme=tokyonight)
